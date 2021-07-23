@@ -1,0 +1,35 @@
+<
+ 
+ *{
+margin:0;
+padding:0;
+}
+ 
+
+
+
+ .header{
+height:100vh;
+}
+	.small-text{
+		font-size: 52px;
+		margin: 20px 0;
+		color: darkorange;
+		
+	}
+ 
+	.big-text
+	{	
+		font-size: 32px;
+		margin: 20px 0;
+		color: white;
+	}
+	
+		body,html{
+min-height:100vh;
+ background-image:url(pic9.gif);
+background-size:cover;
+background-position:center;
+box-sizing:border-box;
+font-size:100%;
+}
